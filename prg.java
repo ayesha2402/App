@@ -1,0 +1,6 @@
+package in.kmit.demo1;
+class prg{
+	public static void main(String args[]) {
+		System.out.println("Hello World");
+	}
+}
